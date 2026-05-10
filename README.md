@@ -246,4 +246,4 @@ The model is intended as a lightweight spatial simulation tool for private prope
 
 # Author
 
-Portfolio project in spatial and environmental data analysis using R.
+Dr. Dominik Antoni.
