@@ -17,22 +17,6 @@ The project uses simple geometric shadow calculations based on:
 
 ---
 
-# Example Output
-
-## Property Layout
-
-![Property Layout](images/property_plot.png)
-
-## Shadowfall Example
-
-![Shadowfall](images/shadowfall_14h.png)
-
-## Daily Sunlight Heatmap
-
-![Heatmap](images/heatmap_daily.png)
-
----
-
 # Required Packages
 
 ```r
